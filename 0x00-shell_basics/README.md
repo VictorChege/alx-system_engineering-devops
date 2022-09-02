@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Absolute path"
+echo \n "Absolute path"
