@@ -1,2 +1,2 @@
 #!/bin/bash
-echo \n "0-current_working_directory"
+echo \n "/root/alx-system_engineering-devops/0x00-shell_basics"
