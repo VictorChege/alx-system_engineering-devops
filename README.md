@@ -1,2 +1,1 @@
-#!/bin/bash
-echo \n "My first readme"
+My first read me
